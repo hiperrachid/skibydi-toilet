@@ -1,0 +1,130 @@
+{
+	
+  "ironsource_app_key": "xxxx",
+  "ironsource_banner_id": "xxxx",
+  "ironsource_interstitial_id": "xxxx",
+  "ironsource_rewarded_id": "xxxx",
+ 
+  "applovin_banner_id": "xxxx",
+  "applovin_interstitial_id": "xxxx",
+  "applovin_native_id": "xxxx",
+  "applovin_rewarded_id": "xxxx",
+  "max": true,
+  
+  "unity_banner_id": "xxxx",
+  "unity_interstitial_id": "xxxx",
+  "unity_rewarded_id": "xxxx",
+  "unity_app_id": "xxxx",
+  "is_unity_test_mode": true,
+  
+  "admob_banner": "xxxx",
+  "admob_interstitial": "xxxx",
+  "admob_native": "xxxx",
+  "admob_rewarded": "xxxx",
+  
+  "facebook_banner": "xxxx",
+  "facebook_interstitial": "xxxx",
+  "facebook_native": "xxxx",
+  "facebook_rewarded": "xxxx",
+  
+
+  "Interstitial": "xxxx",
+  "Banner": "xxxx",
+  "Native": "xxxx",
+  "Rewarded": "xxxx",
+  
+  
+  "clicks_to_show_inter": 1,
+  "native_rate": 2,
+  
+  "rating_exit_popup": true,
+  
+  "onesignal_id": "xxxxxxx",
+  
+  "app_suspended": false,
+  "suspended_title": "A new update for this app is available.",
+  "suspended_message": "Update this app because this version has some issues.",
+  "suspended_URL": "xxxx",
+
+
+  "guides": [
+	{
+	 "image": "xxxx",
+	 "title": "xxxx",
+	 "text": "xxxx",
+	 "text_two": "xxxx",
+
+	 "isLocked": false,
+	 "id": 1,
+	 	 
+	 "showBTN": true,
+	 "BtnURL": "https://www.youtube.com/watch?v=0nyjRMr0uvs",
+	 "BtnTXT": "Click Here"
+	},
+	{
+	 "image": "xxxx",
+	 "title": "xxxx",
+	 "text": "xxxx",
+	 "text_two": "xxxx",
+
+	 "isLocked": true,
+	 "id": 2,
+	 	 
+	 "showBTN": false,
+	 "BtnURL": "xxxx",
+	 "BtnTXT": "xxxx"
+	},
+	{
+	 "image": "xxxx",
+	 "title": "xxxx",
+	 "text": "xxxx",
+	 "text_two": "xxxx",
+
+	 "isLocked": false,
+	 "id": 3,
+	 
+	 "showBTN": true,
+	 "BtnURL": "https://www.youtube.com/watch?v=L6jkPoD4D0w",
+	 "BtnTXT": "Click"
+	},
+	{
+	"image": "xxxx",
+	 "title": "xxxx",
+	 "text": "xxxx",
+	 "text_two": "xxxx",
+
+	 "isLocked": false,
+	 "id": 4,
+
+	 "showBTN": false,
+	 "BtnURL": "xxxx",
+	 "BtnTXT": "xxxx"
+	},
+	{
+	"image": "xxxx",
+	 "title": "xxxx",
+	 "text": "xxxx",
+	 "text_two": "xxxx",
+
+	 "isLocked": false,
+	 "id": 5,
+
+	 "showBTN": false,
+	 "BtnURL": "xxxx",
+	 "BtnTXT": "xxxx"
+	},
+	{
+	"image": "xxxx",
+	 "title": "xxxx",
+	 "text": "xxxx",
+	 "text_two": "xxxx",
+
+	 "isLocked": false,
+	 "id": 6,
+
+	 "showBTN": false,
+	 "BtnURL": "xxxx",
+	 "BtnTXT": "xxxx"
+	}
+  ]  
+}
